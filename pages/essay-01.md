@@ -14,21 +14,19 @@ I am not very good at all this and it is quite a learning curve for me, so I am 
 
 **my list**
 
-.this
-.is
-.me
-.practicing
+-this
+
+-is
+
+-me
+
+-practicing
 
 *and now I am trying italics!*
 
 [GitHub Help](http://help.github.com/)
 
 ## Introduction
-
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
-
-Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
 
