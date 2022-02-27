@@ -8,7 +8,7 @@ permalink: /essay-01.html
 
 This chart clearly shows that international war and preparedness for it was not much of a priority before 1942. 
 
-Immigration was always an issue with asian countries, but this show the hightened fear about Japanese immigrants and their connection to war. 
+Immigration was always an issue with asian countries, but this chart shows the hightened fear about Japanese immigrants and their connection to the war. 
 
 ---
 
