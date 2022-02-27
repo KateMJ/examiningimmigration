@@ -2,6 +2,7 @@
 title: Essay 1
 layout: about
 permalink: /essay-01.html
+---
 
 {% include feature/line-chart.html data="sotu-1900-1945" topic="fighting for freedom" %}
 
