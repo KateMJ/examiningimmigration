@@ -12,6 +12,17 @@ I am practicing and seeing how to type onto this website.
 
 I am not very good at all this and it is quite a learning curve for me, so I am happy for the step by step instructions! Thank you!!
 
+**my list**
+
+.this
+.is
+.me
+.practicing
+
+*and now I am trying italics!*
+
+[GitHub Help](http://help.github.com/)
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
