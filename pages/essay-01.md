@@ -8,6 +8,10 @@ permalink: /essay-01.html
 
 # My New Essay Title
 
+I am practicing and seeing how to type onto this website.
+
+I am not very good at all this and it is quite a learning curve for me, so I am happy for the step by step instructions! Thank you!!
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
