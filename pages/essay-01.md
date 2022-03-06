@@ -81,4 +81,6 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+
 [^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
