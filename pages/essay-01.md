@@ -20,6 +20,8 @@ Immigration was always an issue with asian countries, but this chart shows the h
 
 # My New Essay Title
 
+{% include feature/image.html filename="State_of_the_union1900-1949.png" alt="image of a word cloud from State of the Union 1900-1945" caption="State of the Union 1900-1945 Word Cloud" width="50" %}
+
 I am practicing and seeing how to type onto this website.
 
 I am not very good at all this and it is quite a learning curve for me, so I am happy for the step by step instructions! Thank you!!
