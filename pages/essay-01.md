@@ -38,7 +38,7 @@ I am not very good at all this and it is quite a learning curve for me, so I am 
 
 Font can be *Italic* or **Bold**.
 
-Citing your work is important! [^1]
+Citing your work is important! 
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
@@ -83,4 +83,3 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 [^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
