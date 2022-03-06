@@ -24,6 +24,8 @@ Immigration was always an issue with asian countries, but this chart shows the h
 
 I am practicing and seeing how to type onto this website.
 
+{% include feature/image.html filename="State _of_the_Union1900-1945_trends.png" alt="Trends for the words: Immigration, Immigrants, and deportation - State of the Union 1900-1945" width="50" %}
+
 I am not very good at all this and it is quite a learning curve for me, so I am happy for the step by step instructions! Thank you!!
 
 **my list**
