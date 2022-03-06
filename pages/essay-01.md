@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/line-chart.html data="sotu-1900-1945" topic="fighting for freedom" %}
 
-This chart clearly shows that international war and preparedness for it was not much of a priority before 1942. 
+This chart clearly shows that international war and preparedness for it was not much of a priority before 1942.[^1] 
 
 Immigration was always an issue with asian countries, but this chart shows the hightened fear about Japanese immigrants and their connection to the war. 
 
