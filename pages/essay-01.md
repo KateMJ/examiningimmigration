@@ -16,7 +16,7 @@ Immigration was always an issue with asian countries, but this chart shows the h
 
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # My New Essay Title
 
@@ -66,6 +66,8 @@ A numbered list is created using a number + `.`, like:
 2. two
 6. three
 2. four
+
+### My First Subheading
 
 A horizontal line break can be useful for separating content:
 
