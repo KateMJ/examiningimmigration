@@ -12,6 +12,8 @@ The Alien Immigration Act, also known as the Anarchist Exclusion Act, was implem
 
 *“All idiots, insane persons, epileptics, and persons who have been insane within five years previous; persons who have had two or more attacks of insanity at any time previously; paupers; persons likely to become a public charge; professional beggars; persons afflicted with a loathsome or with a dangerous contagious disease; persons who have been convicted of a felony or of a crime, or misdemeanor involving moral turpitude; polygamists, anarchists, or persons who believe in or advocate the over¬ throw, by force or violence, of the Government of the United States, or of all government, or of all forms of law, or the assassination of public officials; prostitutes, and persons who procure or attempt to bring in prostitutes or women for the purpose of prostitution;”* 
 
+{% include feature/image.html filename="immigration.primarysource.png" alt="Primary Source" caption="text from Commission to investigate condition of immigration at Ellis Island" width="75" link="https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up" %}
+
 This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
 
 {% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="50" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
