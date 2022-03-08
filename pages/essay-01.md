@@ -4,41 +4,10 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/line-chart.html data="sotu-1900-1945" topic="fighting for freedom" %}
-
-This chart clearly shows that international war and preparedness for it was not much of a priority before 1942.[^1] 
-
----
-
-[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
-
-Immigration was always an issue with asian countries, but this chart shows the hightened fear about Japanese immigrants and their connection to the war. 
-
----
-
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # My New Essay Title
 
-{% include feature/image.html filename="State_of_the_union1900-1949.png" alt="image of a word cloud from State of the Union 1900-1945" caption="State of the Union 1900-1945 Word Cloud" width="50" %}
-
-I am practicing and seeing how to type onto this website.
-
-{% include feature/image.html filename="State_of_the _Union 1900-1945.png" alt="Trends in State of the Union for the words: Immigration, Immigrant, Deportation" width="50" %}
-
-I am not very good at all this and it is quite a learning curve for me, so I am happy for the step by step instructions! Thank you!!
-
-**my list**
-
--this
-
--is
-
--me
-
--practicing
-
-*and now I am trying italics!*
 
 [GitHub Help](http://help.github.com/)
 
