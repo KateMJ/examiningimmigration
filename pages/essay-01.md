@@ -14,7 +14,7 @@ The Alien Immigration Act, also known as the Anarchist Exclusion Act, was implem
 
 This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
 
-[GitHub Help](http://help.github.com/)
+{% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="75" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
 
 ## Introduction
 
