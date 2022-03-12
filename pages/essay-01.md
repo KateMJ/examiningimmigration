@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Legislation;Roadblocks;Conclusion;Notes" %}
 
-# Examining Immigration: 20th Century Legislation, Policies, and Reforms for Immigration in the United States.
+# 20th Century Legislation, Policies, and Reforms for Immigration in the United States.
 
 ## Introduction
 
