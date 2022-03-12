@@ -12,7 +12,9 @@ permalink: /essay-01.html
 
 At the beginning of the century, an ideological shift occurring in America changed what had been a historically open attitude toward those coming to our shores. The United States has a long history with immigration. In many ways, our nation as we know it today was founded on it. Unless you are native American, one can say that we are all immigrants. Surprisingly, According to an NYU press blog in 2019, 45.7% of Americans felt that deportation was a good solution for immigration issues.  However, where do these feelings stem from, and do federal government regulations play into these sentiments? Immigration reforms and regulations enacted by the United States Government throughout the 20th century shifted the realities of Congressional power while also reshaping America’s ideology about immigrants. 
 
-Much of the 20th century was wrought with anti-immigration sentiments and the desire to limit specific people groups from coming into the US. Although anti-immigration feelings were strong in the 19th century, the trend towards limiting and controlling immigration on a large scale mainly happened within the 20th century. Throughout the century, many policies and legislation were enacted to limit the ability of people to immigrate severely. These political policies attempted to restrict groups based on nationality, literacy, physical aptitude, lifestyle choices, and even financial soundness. 
+Much of the 20th century was wrought with anti-immigration sentiments and the desire to limit specific people groups from coming into the US. Although anti-immigration feelings were strong in the 19th century, the trend towards limiting and controlling immigration on a large scale mainly happened within the 20th century. Throughout the century, many policies and legislation were enacted to limit the ability of people to immigrate severely. These political policies attempted to restrict groups based on nationality, literacy, physical aptitude, lifestyle choices, and even financial soundness.
+
+{% include feature/image.html filename="try this.png" alt="Party Platforms of the 20th century" caption="Mentions of "immigrants", "immigration", "deportation", "quotas"" width="50" link="https://voyant-tools.org/?corpus=3331b9ec3186b714ca53835d5b3ed722&query=quota*&query=quota&query=deportation*&query=immigrant*&query=immigration*&view=Trends" %}
 
 President William McKinley was greeting visitors on September 6, 1901. One of the hands that he attempted to shake was concealing a revolver, which put two bullets in his chest before the President was ever able to clasp hands with the man. These bullet wounds came from a self-proclaimed anarchist named Leon Czolgosz, leading to President McKinley’s death a week later.  In the September 7 edition of the San Fransisco Call, writer Henry E Highton wrote, “In the midst of righteous indignation, Americans will preserve their balance, but they have learned their lesson and will sternly administer the remedy.”  This stern remedy would play out through the rest of the 20th century.
 
@@ -48,15 +50,7 @@ The Alien Registration Program was implemented in 1940 as a World War II nationa
 
 {% include feature/image.html filename="AR-2 form.png" alt="Original Alien Registration Form" caption="AR-2 for Victor Hinkelman (A2427853)" width="100" link="https://historyhub.history.gov/community/genealogy/immigration-and-naturalization-records/blog/2021/05/20/1940-alien-registration" %}
 
-
-
-
-
-
-
 ## Conclusion
-
-
 
 ## Notes
 
