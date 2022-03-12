@@ -46,6 +46,8 @@ In response to the strict legislation and quotas legislated in 1921 and 1924, th
 
 The Alien Registration Program was implemented in 1940 as a World War II national security measure. This program required all noncitizens over 14 to be fingerprinted and registered with the Immigration and Naturalization Service. This documentation requirement included those current resident noncitizens in the United States and those newly arriving. Each immigrant was given an AR-2 Form “individually stamped with a unique personal identifier” and number. 
 
+{% include feature/image.html filename="AR-2 form.png" alt="Original Alien Registration Form" caption="AR-2 for Victor Hinkelman (A2427853)" width="100" link="https://historyhub.history.gov/community/genealogy/immigration-and-naturalization-records/blog/2021/05/20/1940-alien-registration" %}
+
 
 
 Citing your work is important! 
