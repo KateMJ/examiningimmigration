@@ -55,6 +55,6 @@ The Alien Registration Program was implemented in 1940 as a World War II nationa
 ## Notes
 
 [^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, https://www.fromthesquare.org/fear-of-immigration/. 
-[^2]Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, https://www.historyassociates.com/anarchy-in-the-usa/.
-[^3]Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), accessed March 10, 2022, https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/.
-[^4]Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. https://doi.org/10.2979/indjglolegstu.19.1.169.
+[^2]:Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, https://www.historyassociates.com/anarchy-in-the-usa/.
+[^3]:Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), accessed March 10, 2022, https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/.
+[^4]:Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. https://doi.org/10.2979/indjglolegstu.19.1.169.
