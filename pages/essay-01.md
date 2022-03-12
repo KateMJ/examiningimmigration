@@ -48,12 +48,10 @@ The Alien Registration Program was implemented in 1940 as a World War II nationa
 
 {% include feature/image.html filename="AR-2 form.png" alt="Original Alien Registration Form" caption="AR-2 for Victor Hinkelman (A2427853)" width="100" link="https://historyhub.history.gov/community/genealogy/immigration-and-naturalization-records/blog/2021/05/20/1940-alien-registration" %}
 
-{% include feature/image.html filename="State_of_the _Union 1900-1945.png" alt="Trends in State of the Union for the words: Immigration, Immigrant, Deportation" width="50" %}
-
-{% include feature/image.html filename="State_of_the_union1900-1949.png" alt="image of a word cloud from State of the Union 1900-1945" caption="State of the Union 1900-1945 Word Cloud" width="50" %}
 
 
-Citing your work is important! 
+
+
 
 
 ## Conclusion
