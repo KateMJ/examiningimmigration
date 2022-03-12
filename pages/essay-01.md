@@ -36,7 +36,7 @@ This limitation intensified in the National Origins Act of 1924. The total numbe
 
 During this era of anti-immigration policies, many still fought to limit those coming from eastern Europe. The number of refugees, specifically German Jewish refugees, had been growing since Hitler came into power in 1933.  Eventually, America could not turn a blind eye to the realities of World War 2 and the massive amount of people who were forced to leave their homelands. The Displaced Persons Act of 1948 allowed for approximately 200,000 refugees, defined as Eligible displaced persons or orphans.  These displaced people were given visas without regard to existing quotas.   
 
-## Roadblocks to Immigration
+## Roadblocks
 
 This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
 
