@@ -26,17 +26,26 @@ The Alien Immigration Act, also known as the Anarchist Exclusion Act, was implem
 
 {% include feature/image.html filename="immigration.primarysource.png" alt="Primary Source" caption="Text excerpt from Commission to investigate condition of immigration at Ellis Island" width="100" link="https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up" %}
 
+
+
 This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
 
 {% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="50" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
 
+The wave of immigration legislation persisted throughout the first half of the 20th century. Many saw this as the era of restrictions. Although more immigration laws were enacted after 1903, the next significant push for immigration legislation stemmed from World War 1 fears. Because of the mass immigration that resumed after World War 1, Congress reacted with the Emergency Quota Law of 1921. This law was the first legislation severely limiting the number of immigrants allowed to enter the United States. This act of Congress reduced immigration to allow 350,000 people per year. It also specified quotas that only 3% of the total population of that nationality, based on the 1029 census. 
+
+On top of the quotas, there were strict rules regarding the requirements to come into the United States, “The State Department distributed a limited number of visas each year through US Embassies abroad, and the Immigration Service only admitted immigrants who arrived with a valid visa.”  Much of these limitations and quotas were based on the belief that America should limit immigrants from “undesirable” areas. “The immigration quotas of 1921 started a long line of legislation that attempted to block certain types of immigration. Immigration statistics display the detrimental effect these quotas had on specific ethnic groups.” 
+
+This limitation intensified in the National Origins Act of 1924. The total number of allowed immigrants was again lower, allowing just 165,000 people per year. New quotas were implemented that brought the limits down to just 2% of the total population of any nationality based on the 1890 census. However, these quotas did not include any immigrants from the Western Hemisphere.  In her article *The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924*, Mae Ngai acknowledges that quotas were only the first significant part of the Immigration Act of 1924. The second was “the exclusion of person’s ineligible to citizenship,” therefore limiting up to half of the population of the world from immigrating to the United States.  In 1929 the National Origins Act changed again, limiting the number of persons to 150,000 and linking the 2% quota to the 1920 census. This change limited the immigrants entering the United States from eastern and southern Europe even more significantly. 
+
+During this era of anti-immigration policies, many still fought to limit those coming from eastern Europe. The number of refugees, specifically German Jewish refugees, had been growing since Hitler came into power in 1933.  Eventually, America could not turn a blind eye to the realities of World War 2 and the massive amount of people who were forced to leave their homelands. The Displaced Persons Act of 1948 allowed for approximately 200,000 refugees, defined as Eligible displaced persons or orphans.  These displaced people were given visas without regard to existing quotas.
 
 
-Font can be *Italic* or **Bold**.
+
 
 Citing your work is important! 
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+
 
 # Heading One
 
