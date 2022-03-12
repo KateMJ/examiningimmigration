@@ -16,9 +16,9 @@ Much of the 20th century was wrought with anti-immigration sentiments and the de
 
 {% include feature/image.html filename="try this.png" alt="Party Platforms of the 20th century" caption="Uses of the words: Immigration, Immigrant, Deportation, Quotas" width="100" %}
 
-President William McKinley was greeting visitors on September 6, 1901. One of the hands that he attempted to shake was concealing a revolver, which put two bullets in his chest before the President was ever able to clasp hands with the man. These bullet wounds came from a self-proclaimed anarchist named Leon Czolgosz, leading to President McKinley’s death a week later.  In the September 7 edition of the San Fransisco Call, writer Henry E Highton wrote, “In the midst of righteous indignation, Americans will preserve their balance, but they have learned their lesson and will sternly administer the remedy.”  This stern remedy would play out through the rest of the 20th century.
+President William McKinley was greeting visitors on September 6, 1901. One of the hands that he attempted to shake was concealing a revolver, which put two bullets in his chest before the President was ever able to clasp hands with the man. These bullet wounds came from a self-proclaimed anarchist named Leon Czolgosz, leading to President McKinley’s death a week later.[^2]  In the September 7 edition of the San Fransisco Call, writer Henry E Highton wrote, “In the midst of righteous indignation, Americans will preserve their balance, but they have learned their lesson and will sternly administer the remedy.”[^3]  This stern remedy would play out through the rest of the 20th century.
 
-In her article entitled Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression, Julia Rose Krant explains that this was the “shot that shocked the world.” Asserting that this assassination began a trend that would persist throughout the century of limiting immigration and using federal law to control the type of people allowed to enter the United States. The death of President McKinley led to the passing of the United States’ first Federal law authorizing exclusion and even deportation of immigrants based on their “ideological beliefs, associations, and/or expressions.” 
+In her article entitled Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression, Julia Rose Krant explains that this was the “shot that shocked the world.” Asserting that this assassination began a trend that would persist throughout the century of limiting immigration and using federal law to control the type of people allowed to enter the United States. The death of President McKinley led to the passing of the United States’ first Federal law authorizing exclusion and even deportation of immigrants based on their “ideological beliefs, associations, and/or expressions.”[^4]
 
 ## Legislation
 
@@ -55,4 +55,6 @@ The Alien Registration Program was implemented in 1940 as a World War II nationa
 ## Notes
 
 [^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, https://www.fromthesquare.org/fear-of-immigration/. 
-
+[^2]Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, https://www.historyassociates.com/anarchy-in-the-usa/.
+[^3]Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), accessed March 10, 2022, https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/.
+[^4]Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. https://doi.org/10.2979/indjglolegstu.19.1.169.
