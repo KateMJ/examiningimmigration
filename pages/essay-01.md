@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Legislation;Roadblocks;Conclusion;Notes" %}
 
 # My New Essay Title
 
