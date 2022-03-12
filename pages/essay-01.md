@@ -14,7 +14,7 @@ At the beginning of the century, an ideological shift occurring in America chang
 
 Much of the 20th century was wrought with anti-immigration sentiments and the desire to limit specific people groups from coming into the US. Although anti-immigration feelings were strong in the 19th century, the trend towards limiting and controlling immigration on a large scale mainly happened within the 20th century. Throughout the century, many policies and legislation were enacted to limit the ability of people to immigrate severely. These political policies attempted to restrict groups based on nationality, literacy, physical aptitude, lifestyle choices, and even financial soundness.
 
-{% include feature/image.html filename="try this.png" alt="Party Platforms of the 20th century" caption="Uses of the words: Immigration, Immigrant, Deportation, Quotas" width="75" %}
+{% include feature/image.html filename="try this.png" alt="Party Platforms of the 20th century" caption="Uses of the words: Immigration, Immigrant, Deportation, Quotas" width="100" %}
 
 President William McKinley was greeting visitors on September 6, 1901. One of the hands that he attempted to shake was concealing a revolver, which put two bullets in his chest before the President was ever able to clasp hands with the man. These bullet wounds came from a self-proclaimed anarchist named Leon Czolgosz, leading to President McKinley’s death a week later.  In the September 7 edition of the San Fransisco Call, writer Henry E Highton wrote, “In the midst of righteous indignation, Americans will preserve their balance, but they have learned their lesson and will sternly administer the remedy.”  This stern remedy would play out through the rest of the 20th century.
 
