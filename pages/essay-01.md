@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 ## Introduction
 
-At the beginning of the century, an ideological shift occurring in America changed what had been a historically open attitude toward those coming to our shores. The United States has a long history with immigration. In many ways, our nation as we know it today was founded on it. Unless you are native American, one can say that we are all immigrants. Surprisingly, According to an NYU press blog in 2019, 45.7% of Americans felt that deportation was a good solution for immigration issues.  However, where do these feelings stem from, and do federal government regulations play into these sentiments? Immigration reforms and regulations enacted by the United States Government throughout the 20th century shifted the realities of Congressional power while also reshaping America’s ideology about immigrants. 
+At the beginning of the century, an ideological shift occurring in America changed what had been a historically open attitude toward those coming to our shores. The United States has a long history with immigration. In many ways, our nation as we know it today was founded on it. Unless you are native American, one can say that we are all immigrants. Surprisingly, According to an NYU press blog in 2019, 45.7% of Americans felt that deportation was a good solution for immigration issues.[^1]  However, where do these feelings stem from, and do federal government regulations play into these sentiments? Immigration reforms and regulations enacted by the United States Government throughout the 20th century shifted the realities of Congressional power while also reshaping America’s ideology about immigrants. 
 
 Much of the 20th century was wrought with anti-immigration sentiments and the desire to limit specific people groups from coming into the US. Although anti-immigration feelings were strong in the 19th century, the trend towards limiting and controlling immigration on a large scale mainly happened within the 20th century. Throughout the century, many policies and legislation were enacted to limit the ability of people to immigrate severely. These political policies attempted to restrict groups based on nationality, literacy, physical aptitude, lifestyle choices, and even financial soundness.
 
@@ -54,5 +54,5 @@ The Alien Registration Program was implemented in 1940 as a World War II nationa
 
 ## Notes
 
-[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+[^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, https://www.fromthesquare.org/fear-of-immigration/. 
 
