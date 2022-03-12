@@ -26,12 +26,6 @@ The Alien Immigration Act, also known as the Anarchist Exclusion Act, was implem
 
 {% include feature/image.html filename="immigration.primarysource.png" alt="Primary Source" caption="Text excerpt from Commission to investigate condition of immigration at Ellis Island" width="100" link="https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up" %}
 
-
-
-This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
-
-{% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="50" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
-
 The wave of immigration legislation persisted throughout the first half of the 20th century. Many saw this as the era of restrictions. Although more immigration laws were enacted after 1903, the next significant push for immigration legislation stemmed from World War 1 fears. Because of the mass immigration that resumed after World War 1, Congress reacted with the Emergency Quota Law of 1921. This law was the first legislation severely limiting the number of immigrants allowed to enter the United States. This act of Congress reduced immigration to allow 350,000 people per year. It also specified quotas that only 3% of the total population of that nationality, based on the 1029 census. 
 
 On top of the quotas, there were strict rules regarding the requirements to come into the United States, “The State Department distributed a limited number of visas each year through US Embassies abroad, and the Immigration Service only admitted immigrants who arrived with a valid visa.”  Much of these limitations and quotas were based on the belief that America should limit immigrants from “undesirable” areas. “The immigration quotas of 1921 started a long line of legislation that attempted to block certain types of immigration. Immigration statistics display the detrimental effect these quotas had on specific ethnic groups.” 
@@ -40,47 +34,22 @@ This limitation intensified in the National Origins Act of 1924. The total numbe
 
 During this era of anti-immigration policies, many still fought to limit those coming from eastern Europe. The number of refugees, specifically German Jewish refugees, had been growing since Hitler came into power in 1933.  Eventually, America could not turn a blind eye to the realities of World War 2 and the massive amount of people who were forced to leave their homelands. The Displaced Persons Act of 1948 allowed for approximately 200,000 refugees, defined as Eligible displaced persons or orphans.  These displaced people were given visas without regard to existing quotas.
 
+## Roadblocks to Immigration
+
+This timeframe also began a movement where the United States government would begin a series of roadblocks to make immigration logistically much more difficult. Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.  
+
+{% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="50" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
+
+Due to the realities of World War 1, it is not surprising that President Wilson was given many liberties on how he controlled the travel of immigrants. In August of 1918, he issued a presidential proclamation, also known as the Travel Control Act, requiring passports for any departure or departure entry into the United States. Congress did limit President Wilson’s “executive discretion when it came to citizens, even during wartime.”  
+
+In response to the strict legislation and quotas legislated in 1921 and 1924, there was suddenly a massive rise in what was now considered illegal immigration. Land borders were the most accessible place to gain entry into the United States.  Consequently, in 1924 Congress approved the creation of the Border Patrol, “authorizing the expenditure of funds for both a land and coast patrol”  (3). In a 1949 document created by the US Department of Justice: Immigration and Naturalization Service, they explain the origins and purpose of the Border Control. “Its primary function is to detect and prevent the smuggling and unlawful entry of aliens into the United States, and to apprehend persons guilty of such violations.” This same document states that during the fiscal years from “July 1, 1936, to June 30, 1947, the border Patrol apprehended 495,532 persons for violation of immigration and other laws”, working in connection with Federal, State, and local law enforcement. 
+
+The Alien Registration Program was implemented in 1940 as a World War II national security measure. This program required all noncitizens over 14 to be fingerprinted and registered with the Immigration and Naturalization Service. This documentation requirement included those current resident noncitizens in the United States and those newly arriving. Each immigrant was given an AR-2 Form “individually stamped with a unique personal identifier” and number. 
 
 
 
 Citing your work is important! 
 
-
-
-# Heading One
-
-## Heading Two
-
-### Heading Three, etc.
-
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-### My First Subheading
-
-A horizontal line break can be useful for separating content:
-
-----
-
-Include an image:
-
-{% include feature/image.html filename="demo_001.jpg" alt="image of UI Admin building" caption="Historic photo of the University of Idaho campus" width="50" %}
-
-Include a pdf:
-
-{% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
 
 ## Conclusion
 
