@@ -52,7 +52,7 @@ The Alien Registration Program was implemented in 1940 as a World War 2 national
 
 {% include feature/image.html filename="AR-2 form.png" alt="Original Alien Registration Form" caption="AR-2 for Victor Hinkelman (A2427853)" width="100" link="https://historyhub.history.gov/community/genealogy/immigration-and-naturalization-records/blog/2021/05/20/1940-alien-registration" %}
 
-Congressional Power played strongly in these decisions and immigration legislation. 
+Congressional Power played strongly in these decisions and Immigration Legislation. 
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="Congressional Powers" %}
 
