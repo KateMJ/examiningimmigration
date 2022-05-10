@@ -82,6 +82,8 @@ Although deportations were first categorized in the year 1908, deportation by fe
 
 Authors Ryan D. King, Michael Massoglia, and Christopher Uggen analyze this table; they state, “We find no significant association between the change in criminal deportations and changes in the homicide rate, immigration, or the unemployment rate. However, we again note that the relationship between unemployment and deportations is likely contingent on larger legal, bureaucratic, and social shifts that occurred throughout the 20th century.” 
 
+Congressional Power played strongly in these decisions and Immigration Legislation.
+
 {% include feature/line-chart.html data="sotu-20th-century" topic="Congressional Powers" %}
 
 ## Conclusion
