@@ -48,7 +48,7 @@ Once again, there was more modification to the National Origin Quota system, and
 
 *"Whenever the President finds that the entry of any aliens or of any class of aliens into the United States would be detrimental to the interests of the United States, he may by proclamation, and for such period as he shall deem necessary, suspend the entry of all aliens or any class of aliens as immigrants or nonimmigrants, or impose on the entry of aliens any restrictions he may deem to be appropriate."*  
 
-{% include feature/image.html filename="section212.png" alt="Section 212" caption="Presidental Powers given in the 1952 Immigration and Nationality Act, Section 212" width="50" %}
+{% include feature/image.html filename="section212.png" alt="Section 212" caption="Presidental Powers given in the 1952 Immigration and Nationality Act, Section 212" width="75" %}
 
 This legislation cleared up the federal government’s role in immigration laws, stating that the President’s role was to enforce the laws. However, he was subservient to Congress, which would make the laws regarding immigration. 
 
