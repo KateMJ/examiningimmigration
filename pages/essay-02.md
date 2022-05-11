@@ -106,15 +106,19 @@ Authors Ryan D. King, Michael Massoglia, and Christopher Uggen analyze this tabl
 
 ## Conclusion
 
+Throughout the 20th-century, government policies and legislation on immigration began limiting the freedom for people to immigrate while also creating a bureaucracy that instituted a highly regulatory system full of roadblocks, criminalizing immigrants even after regulations shifted. Immigration is an intense topic in our nation and has shifted and changed significantly in the last 100 years. However, immigration is not just about legislation, systems or limitations; it is about people. When we consider the humanity of people looking at the issues through their eyes, we might see immigration differently.
+
+Oscar Handlin, a Harvard professor for almost 50 years, wrote a Pulitzer prize-winning book called “The Uprooted.” In the opening line of his introduction, Dr. Handlin wrote: “Once I thought to write a history of the immigrants in America. Then I discovered that the immigrants were American history.” This perspective helps frame the critical conversation about immigration within the 21st century.[^41]
 
 
 ## Notes
 
-[^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, [https://www.fromthesquare.org/fear-of-immigration/]. 
-[^2]:Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, [https://www.historyassociates.com/anarchy-in-the-usa/].
-[^3]:Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/.
-[^4]:Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. https://doi.org/10.2979/indjglolegstu.19.1.169.
-[^5]:“Report of the Commission Appointed by the President on September 16, 1903 to Investigate the Condition of the Immigration Station at Ellis Island: United States. Commission to Investigate Condition of Immigration at Ellis Island,” (Internet Archive. Washington, Gov't print. off., 1904), https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up.
+[^1]:Ann Gordon et al., “Fear of Immigration,” From The Square, January 3, 2020, (https://www.fromthesquare.org/fear-of-immigration/)[https://www.fromthesquare.org/fear-of-immigration/]. 
+[^2]:Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, (https://www.historyassociates.com/anarchy-in-the-usa/)[https://www.historyassociates.com/anarchy-in-the-usa/].
+[^3]:Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), (https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/)[https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/].
+[^4]:Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. (https://doi.org/10.2979/indjglolegstu.19.1.169)[https://doi.org/10.2979/indjglolegstu.19.1.169].
+[^5]:Daniel Fisher, “The President Has as Much Immigration Authority as Congress Gives Him,” Forbes (Forbes Magazine, November 21, 2014), (https://www.forbes.com/sites/danielfisher/2014/11/21/the-president-has-as-much-immigration-authority-as-congress-gives-him/)[https://www.forbes.com/sites/danielfisher/2014/11/21/the-president-has-as-much-immigration-authority-as-congress-gives-him/].
+[^7]:“Report of the Commission Appointed by the President on September 16, 1903 to Investigate the Condition of the Immigration Station at Ellis Island: United States. Commission to Investigate Condition of Immigration at Ellis Island,” (Internet Archive. Washington, Gov't print. off., 1904), https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up.
 [^6]:Beth Rowan and Logan Chamberlain, “Immigration Legislation,” Immigration Legislation (A detailed look at immigration legislation from the Colonial Period to the present, June 2, 2020), https://www.infoplease.com/us/immigration-legislation.
 [^7]:“Era of Restriction,” USCIS, December 4, 2019, https://www.uscis.gov/about-us/our-history/overview-of-agency-history/era-of-restriction. 
 [^8]:“The Emergency Quota Act - Laws.com,” Immigration, December 22, 2019, https://immigration.laws.com/emergency-quota-act.
@@ -129,3 +133,25 @@ Authors Ryan D. King, Michael Massoglia, and Christopher Uggen analyze this tabl
 [^17]:“The Immigration Border Patrol; its origin, activities, accomplishments, organization, and personnel.” (Internet Archive. Washington, Gov't print. off., 1949), 3. 
 [^18]:“The Immigration Border Patrol” 6.
 [^19]:“Alien Registration Forms on Microfilm, 1940 - 1944,” USCIS, February 25, 2021, https://www.uscis.gov/records/genealogy/historical-record-series/alien-registration-forms-on-microfilm-1940-1944.
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
+[^41]:
+
