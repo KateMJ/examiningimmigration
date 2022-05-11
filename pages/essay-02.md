@@ -23,17 +23,17 @@ Much of the 20th century was wrought with anti-immigration sentiments and the de
 
 {% include feature/image.html filename="Voyant.png" alt="Voyant" caption="Party Platforms of the 20th century" width="100" %}
 
--**blue**: communist
+-**blue**: "communist"
 
--**green**: chinese
+-**green**: "chinese"
 
--**pink**: border
+-**pink**: "border"
 
--**purple**: immigration
+-**purple**: "immigration"
 
--**tourquise**: citizenship
+-**tourquise**: "citizenship"
 
--**orange**: anarchist
+-**orange**: "anarchist"
 
 
 ## 20th-Century Legislation
