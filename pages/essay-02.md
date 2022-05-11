@@ -61,7 +61,7 @@ Once again, there was more modification to the National Origin Quota system, and
 
 This legislation cleared up the federal government’s role in immigration laws, stating that the President’s role was to enforce the laws. However, he was subservient to Congress, which would make the laws regarding immigration.[^21] 
 
-{% include feature/image.html filename="Arizona sun.png" alt="Newspaper" caption="The Arrizon Sun Newspaper - February 13th,1953" width="75" link="https://chroniclingamerica.loc.gov/lccn/sn84021917/1953-02-13/ed-1/seq-6/#date1=1777&index=11&rows=20&words=McCarran+McCarran-Walter+Walter&searchType=basic&sequence=0&state=&date2=1963&proxtext=McCarran-Walter&y=0&x=0&dateFilterType=yearRange&page=1" %}
+{% include feature/image.html filename="Arizonasun.png" alt="newspaper" caption="THe Arizona Sun Newspaper - Feburary 13, 1953" width="75" link="https://chroniclingamerica.loc.gov/lccn/sn84021917/1953-02-13/ed-1/seq-6/#date1=1777&index=11&rows=20&words=McCarran+McCarran-Walter+Walter&searchType=basic&sequence=0&state=&date2=1963&proxtext=McCarran-Walter&y=0&x=0&dateFilterType=yearRange&page=1" %}
 
 As the push for civil rights began to drive national policy, the realities of immigration laws could not be overlooked. In 1965 amendments to the immigration and nationality act (H.R. 2580) were signed by President Johnson, which finally changed the National Origins quota.[^22]  In a statement by the Attorney General to the Immigration and Nationality subcommittee of the House Judiciary Committee on March 3rd, 1965, it was stated that “these evils of principle in the national origin system are compounded by its cruelties and practice, cruelties so needless that they alone provide an abundant reason for changing this system.
 
