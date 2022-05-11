@@ -110,8 +110,8 @@ Authors Ryan D. King, Michael Massoglia, and Christopher Uggen analyze this tabl
 
 ## Notes
 
-[^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, https://www.fromthesquare.org/fear-of-immigration/. 
-[^2]:Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, https://www.historyassociates.com/anarchy-in-the-usa/.
+[^1]:Gordon Ann et al., “Fear of Immigration,” From The Square, January 3, 2020, [https://www.fromthesquare.org/fear-of-immigration/]. 
+[^2]:Justin Broubalow, “Anarchy in the USA: Fear and Loathing in the Early 20th Century,” History Associates Incorporated, September 10, 2020, [https://www.historyassociates.com/anarchy-in-the-usa/].
 [^3]:Henry E. Highton, “The San Francisco Call. [Volume] (San Francisco [Calif.]) 1895-1913, September 07, 1901, Image 7,” News about Chronicling America RSS (Charles M. Shortridge), https://chroniclingamerica.loc.gov/lccn/sn85066387/1901-09-07/ed-1/seq-7/.
 [^4]:Julia Rose Kraut, “Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression.” Indiana Journal of Global Legal Studies 19, no. 1 (2012): 169-171. https://doi.org/10.2979/indjglolegstu.19.1.169.
 [^5]:“Report of the Commission Appointed by the President on September 16, 1903 to Investigate the Condition of the Immigration Station at Ellis Island: United States. Commission to Investigate Condition of Immigration at Ellis Island,” (Internet Archive. Washington, Gov't print. off., 1904), https://archive.org/details/reportofcommissi00unit_88/page/16/mode/2up.
