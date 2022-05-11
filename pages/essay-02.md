@@ -99,7 +99,7 @@ The criminalization of immigration shifted significantly in 1996 with President 
 
 Although deportations were first categorized in the year 1908, deportation by federal immigration and naturalization agencies has become a reality for many immigrants; this practice was less common through the first part of the 20th century and saw a drastic increase after the 1980s. From the article *Employment and Exile: U.S. Criminal Deportations, 1908 - 2005*, this chart shows the number of deportations every year along with the percentage of all deportations that involved criminal behavior as the reason for removal.
 
-{% include feature/image.html filename="criminal deportations.png" alt="Criminal Deportations in the United States 1908-2005" width="100" link="https://www-jstor-org.uidaho.idm.oclc.org/stable/10.1086/664824?seq=17" %}
+{% include feature/image.html filename="criminal deportations.png" alt="chart" caption="Criminal Deportations by Year (1908-2005)" width="100" link="https://doi.org/10.1086/664824" %}
 
 Authors Ryan D. King, Michael Massoglia, and Christopher Uggen analyze this table; they state, “We find no significant association between the change in criminal deportations and changes in the homicide rate, immigration, or the unemployment rate. However, we again note that the relationship between unemployment and deportations is likely contingent on larger legal, bureaucratic, and social shifts that occurred throughout the 20th century.” [^38] The trend toward the criminalization of immigration is a powerful system, seemingly the ultimate roadblock, that leaves immigrants with little ability to present their case against deportation.
 
