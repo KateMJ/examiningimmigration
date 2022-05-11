@@ -24,13 +24,16 @@ Much of the 20th century was wrought with anti-immigration sentiments and the de
 {% include feature/image.html filename="Voyant.png" alt="Voyant" caption="Party Platforms of the 20th century" width="100" %}
 
 -**blue**: communist
--**green**: chinese
--**pink**: border
--**purple**: immigration
--**tourquise**: citizenship
--**orange**: anarchist
 
-President William McKinley was greeting visitors on September 6, 1901. Unbeknownst to him, one of the hands that he would attempt to shake was concealing a revolver, which put two bullets in his chest before the President was ever able to clasp hands with the man. These bullet wounds came from a self-proclaimed anarchist named Leon Czolgosz, leading to President McKinley’s death a week later.[^2]  In the September 7 edition of the *San Fransisco Call*, writer Henry E Highton wrote, “In the midst of righteous indignation, Americans will preserve their balance, but they have learned their lesson and will sternly administer the remedy.”[^3]  This stern remedy would play out through the rest of the 20th century.
+-**green**: chinese
+
+-**pink**: border
+
+-**purple**: immigration
+
+-**tourquise**: citizenship
+
+-**orange**: anarchist
 
 
 ## 20th-Century Legislation
