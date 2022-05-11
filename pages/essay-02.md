@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Legislation;Roadblocks;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;20th Century Legislation;Roadblocks;Conclusion;Notes" %}
 
 # 20th Century Legislation, Policies, and Reforms for Immigration in the United States.
 
