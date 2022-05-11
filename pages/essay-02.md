@@ -83,7 +83,7 @@ Paralleling the growing and changing legislation in the United States, a develop
 
 Congress passed the Immigration Act of 1917, which included the requirement that those immigrating must have the ability to read and write in their native language. This year marked the beginning of the Immigration Service using literacy tests as a prerequisite to immigration.[^28]  
 
-{% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="60" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
+{% include feature/pdf.html filename="0879.pdf" caption="Outburst of Everett True" width="75" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-02-02/ed-1/seq-11/" %}
 
 Due to the realities of World War 1, it is not surprising that President Woodrow Wilson was given many liberties in how he controlled the travel of immigrants. In August of 1918, he issued a presidential proclamation, also known as the Travel Control Act, requiring passports for any departure or departure entry into the United States. Congress did limit President Wilson’s “executive discretion when it came to citizens, even during wartime.”[^29] 
 
