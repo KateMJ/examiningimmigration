@@ -62,7 +62,7 @@ Once again, there was more modification to the National Origin Quota system, and
 
 {% include feature/image.html filename="section212.png" alt="section 212" caption="1952 Immigration and Nationality Act - Presidential Powers" width="100" link="https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg163.pdf" %}
 
-This legislation cleared up the federal government’s role in immigration laws, stating that the President’s role was to enforce the laws. However, he was subservient to Congress, which would make the laws regarding immigration.
+This legislation cleared up the federal government’s role in immigration laws, stating that the President’s role was to enforce the laws. However, he was subservient to Congress, which had become the ultimate authority regarding immigration legislation.
 
 {% include feature/image.html filename="Arizonasun.png" alt="newspaper" caption="THe Arizona Sun Newspaper - Feburary 13, 1953" width="100" link="https://chroniclingamerica.loc.gov/lccn/sn84021917/1953-02-13/ed-1/seq-6/#date1=1777&index=11&rows=20&words=McCarran+McCarran-Walter+Walter&searchType=basic&sequence=0&state=&date2=1963&proxtext=McCarran-Walter&y=0&x=0&dateFilterType=yearRange&page=1" %}
 
