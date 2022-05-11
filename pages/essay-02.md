@@ -123,40 +123,33 @@ Oscar Handlin, a Harvard professor for almost 50 years, wrote a Pulitzer prize-w
 [^8]:Beth Rowan and Logan Chamberlain, “Immigration Legislation,” Immigration Legislation (A detailed look at immigration legislation from the Colonial Period to the present, June 2, 2020), [https://www.infoplease.com/us/immigration-legislation](https://www.infoplease.com/us/immigration-legislation)
 [^9]:“Era of Restriction,” USCIS, December 4, 2019, [https://www.uscis.gov/about-us/our-history/overview-of-agency-history/era-of-restriction](https://www.uscis.gov/about-us/our-history/overview-of-agency-history/era-of-restriction). 
 [^10]:“The Emergency Quota Act - Laws.com,” Immigration, December 22, 2019, [https://immigration.laws.com/emergency-quota-act](https://immigration.laws.com/emergency-quota-act).
-[^11]Fisher, “The President Has as Much Immigration Authority”.
+[^11]:Fisher, “The President Has as Much Immigration Authority”.
 [^12]:Rowan, “Immigration Legislation”.
 [^13]:Mae M,Ngai, “The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924.” The Journal of American History 86, no. 1 (1999): 80, [https://doi.org/10.2307/2567407](https://doi.org/10.2307/2567407).
-[^14]Bourke, Dale Hanson. Immigration: Tough Questions, Direct Answers. Downers Grove, IL: IVP Books, 2014, 62.
+[^14]:Bourke, Dale Hanson. Immigration: Tough Questions, Direct Answers. Downers Grove, IL: IVP Books, 2014, 62.
 [^15]:Zosa, Szajkowski, “The Attitude of American Jews to Refugees from Germany in the 1930’s.” American Jewish Historical Quarterly 61, no. 2 (1971): 101-102, [http://www.jstor.org/stable/23877963](http://www.jstor.org/stable/23877963).
 [^16]:United States Congress. United States Statutes at Large, 80th Congress, 1948 (Washington, DC: US Government Printing Office, 1949), 1009. [https://perspectives.ushmm.org/item/the-displaced-persons-act-of-1948/collection/displaced-persons-and-postwar-america](https://perspectives.ushmm.org/item/the-displaced-persons-act-of-1948/collection/displaced-persons-and-postwar-america).
-[^17]Fisher, “The President Has as Much Immigration Authority”.
-[^18]Fisher, “The President Has as Much Immigration Authority”.
-[^19]“Immigration and Nationality Act of 1952 (the Mccarran-Walter Act),” Immigration History, February 6, 2020, [https://immigrationhistory.org/item/immigration-and-nationality-act-the-mccarran-walter-act/?msclkid=3cfe21e6ce8711ec9ae52db6d082dbd2](https://immigrationhistory.org/item/immigration-and-nationality-act-the-mccarran-walter-act/?msclkid=3cfe21e6ce8711ec9ae52db6d082dbd2).
-[^14]:“Mass Immigration and WWI,” USCIS, July 30, 2020, https://www.uscis.gov/about-us/our-history/mass-immigration-and-wwi.
-[^15]:
-[^16]:“Era of Restriction.” USCIS.
-[^17]:“The Immigration Border Patrol; its origin, activities, accomplishments, organization, and personnel.” (Internet Archive. Washington, Gov't print. off., 1949), 3. 
-[^18]:“The Immigration Border Patrol” 6.
-[^19]:“Alien Registration Forms on Microfilm, 1940 - 1944,” USCIS, February 25, 2021, https://www.uscis.gov/records/genealogy/historical-record-series/alien-registration-forms-on-microfilm-1940-1944.
+[^17]:Fisher, “The President Has as Much Immigration Authority”.
+[^18]:Fisher, “The President Has as Much Immigration Authority”.
+[^19]:“Immigration and Nationality Act of 1952 (the Mccarran-Walter Act),” Immigration History, February 6, 2020, [https://immigrationhistory.org/item/immigration-and-nationality-act-the-mccarran-walter-act/?msclkid=3cfe21e6ce8711ec9ae52db6d082dbd2](https://immigrationhistory.org/item/immigration-and-nationality-act-the-mccarran-walter-act/?msclkid=3cfe21e6ce8711ec9ae52db6d082dbd2).
 [^20]:“Records of Rights Vote: The Immigration Act,” National Archives and Records Administration (National Archives and Records Administration), [https://prologue.blogs.archives.gov/2013/11/13/records-of-rights-vote-the-immigration-act/](https://prologue.blogs.archives.gov/2013/11/13/records-of-rights-vote-the-immigration-act/).
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-[^31]:
-[^32]:
-[^33]:
+[^21]:“Department of an Address by - United States Department of Justice,” [https://www.justice.gov/sites/default/files/ag/legacy/2011/08/23/09-06-1978b.pdf](https://www.justice.gov/sites/default/files/ag/legacy/2011/08/23/09-06-1978b.pdf).
+[^22]:Rowan and Chamberlain, “Immigration Legislation”.
+[^23]:Lina Newton. Illegal, Alien, or Immigrant: The Politics of Immigration Reform. New York: NYU Press, 2008, 79.
+[^24]:Patrisia Macías-Rojas. "Immigration and the War on Crime: Law and Order Politics and the Illegal Immigration Reform and Immigrant Responsibility Act of 1996." Journal on Migration and Human Security 6, no. 1 (2018): 13.[https://journals.sagepub.com/doi/pdf/10.1177/233150241800600101?msclkid=e24e7d64d12811ec8cbbecb4a7c08b3a&](https://journals.sagepub.com/doi/pdf/10.1177/233150241800600101?msclkid=e24e7d64d12811ec8cbbecb4a7c08b3a&)
+[^25]:Rowan and Chamberlain, “Immigration Legislation”.
+[^26]:William J. Clinton, Statement on Signing the Omnibus Consolidated Appropriations Act, 1997 Online by Gerhard Peters and John T. Woolley, The American Presidency Project [https://www.presidency.ucsb.edu/node/221661](https://www.presidency.ucsb.edu/node/221661)
+[^27]:Macías-Rojas, "Immigration and the War on Crime:"
+[^28]:“Mass Immigration and WWI,” USCIS, July 30, 2020, https://www.uscis.gov/about-us/our-history/mass-immigration-and-wwi.
+[^29]:Kahn, Jeffrey. Mrs. Shipley's Ghost : The Right to Travel and Terrorist Watchlists, University of Michigan Press, 2013. ProQuest Ebook Central, [http://ebookcentral.proquest.com/lib/uidaho/detail.action?docID=3415147](http://ebookcentral.proquest.com/lib/uidaho/detail.action?docID=3415147)
+[^30]:“Era of Restriction.” USCIS.
+[^31]:“The Immigration Border Patrol; its origin, activities, accomplishments, organization, and personnel.” (Internet Archive. Washington, Gov't print. off., 1949), 3.[https://archive.org/details/immigrationborde00unit_0?msclkid=bb289b49d12911ecb67870a6bd06da1a](https://archive.org/details/immigrationborde00unit_0?msclkid=bb289b49d12911ecb67870a6bd06da1a)
+[^32]:“The Immigration Border Patrol” 6.
+[^33]:“Alien Registration Forms on Microfilm, 1940 - 1944,” USCIS, February 25, 2021, [https://www.uscis.gov/records/genealogy/historical-record-series/alien-registration-forms-on-microfilm-1940-1944](https://www.uscis.gov/records/genealogy/historical-record-series/alien-registration-forms-on-microfilm-1940-1944).
 [^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
-[^39]:
-[^40]:
-[^41]:Paul Vitello, “Oscar Handlin, Historian Who Chronicled U.S. Immigration, Dies at 95,” The New York Times (The New York Times, September 24, 2011), [https://www.nytimes.com/2011/09/24/us/oscar-handlin-historian-who-chronicled-united-states-immigration-dies-at-95.html](https://www.nytimes.com/2011/09/24/us/oscar-handlin-historian-who-chronicled-united-states-immigration-dies-at-95.html).
+[^35]:“A-Files Numbered below 8 Million,” USCIS, January 2, 2020, [https://www.uscis.gov/records/genealogy/historical-record-series/a-files-numbered-below-8-million](https://www.uscis.gov/records/genealogy/historical-record-series/a-files-numbered-below-8-million).
+[^36]:Macías-Rojas, "Immigration and the War on Crime," 6.
+[^37]:Fisher, “The President Has as Much Immigration Authority”.
+[^38]:Ryan D King, Michael Massoglia, and Christopher Uggen. “Employment and Exile: U.S. Criminal Deportations, 1908–2005.” American Journal of Sociology 117, no. 6 (2012): 1786–1825. [https://doi.org/10.1086/664824](https://doi.org/10.1086/664824).
+[^39]:Paul Vitello, “Oscar Handlin, Historian Who Chronicled U.S. Immigration, Dies at 95,” The New York Times (The New York Times, September 24, 2011), [https://www.nytimes.com/2011/09/24/us/oscar-handlin-historian-who-chronicled-united-states-immigration-dies-at-95.html](https://www.nytimes.com/2011/09/24/us/oscar-handlin-historian-who-chronicled-united-states-immigration-dies-at-95.html).
 
