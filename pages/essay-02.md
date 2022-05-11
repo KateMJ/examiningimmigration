@@ -135,11 +135,11 @@ Oscar Handlin, a Harvard professor for almost 50 years, wrote a Pulitzer prize-w
 [^20]:“Records of Rights Vote: The Immigration Act,” National Archives and Records Administration (National Archives and Records Administration), [https://prologue.blogs.archives.gov/2013/11/13/records-of-rights-vote-the-immigration-act/](https://prologue.blogs.archives.gov/2013/11/13/records-of-rights-vote-the-immigration-act/).
 [^21]:“Department of an Address by - United States Department of Justice,” [https://www.justice.gov/sites/default/files/ag/legacy/2011/08/23/09-06-1978b.pdf](https://www.justice.gov/sites/default/files/ag/legacy/2011/08/23/09-06-1978b.pdf).
 [^22]:Rowan and Chamberlain, “Immigration Legislation”.
-[^23]:Lina Newton. Illegal, Alien, or Immigrant: The Politics of Immigration Reform. New York: NYU Press, 2008, 79.
+[^23]:Lina Newton. Illegal, Alien, or Immigrant: The Politics of Immigration Reform. New York: NYU Press, 2008, 79.[https://muse-jhu-edu.uidaho.idm.oclc.org/book/10729](https://muse-jhu-edu.uidaho.idm.oclc.org/book/10729).
 [^24]:Patrisia Macías-Rojas. "Immigration and the War on Crime: Law and Order Politics and the Illegal Immigration Reform and Immigrant Responsibility Act of 1996." Journal on Migration and Human Security 6, no. 1 (2018): 13.[https://journals.sagepub.com/doi/pdf/10.1177/233150241800600101?msclkid=e24e7d64d12811ec8cbbecb4a7c08b3a&](https://journals.sagepub.com/doi/pdf/10.1177/233150241800600101?msclkid=e24e7d64d12811ec8cbbecb4a7c08b3a&)
 [^25]:Rowan and Chamberlain, “Immigration Legislation”.
 [^26]:William J. Clinton, Statement on Signing the Omnibus Consolidated Appropriations Act, 1997 Online by Gerhard Peters and John T. Woolley, The American Presidency Project [https://www.presidency.ucsb.edu/node/221661](https://www.presidency.ucsb.edu/node/221661)
-[^27]:Macías-Rojas, "Immigration and the War on Crime:"
+[^27]:Macías-Rojas, "Immigration and the War on Crime," 15.
 [^28]:“Mass Immigration and WWI,” USCIS, July 30, 2020, https://www.uscis.gov/about-us/our-history/mass-immigration-and-wwi.
 [^29]:Kahn, Jeffrey. Mrs. Shipley's Ghost : The Right to Travel and Terrorist Watchlists, University of Michigan Press, 2013. ProQuest Ebook Central, [http://ebookcentral.proquest.com/lib/uidaho/detail.action?docID=3415147](http://ebookcentral.proquest.com/lib/uidaho/detail.action?docID=3415147)
 [^30]:“Era of Restriction.” USCIS.
